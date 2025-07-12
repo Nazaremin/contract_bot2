@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 @dataclass
 class Config:
-    BOT_TOKEN: str = os.getenv('BOT_TOKEN', '7618117945:AAFrQft9Yw00IJXf_n6UflIEo-gAWuz5SVE')
+    BOT_TOKEN: str = os.getenv('BOT_TOKEN', '76')
     DATABASE_PATH: str = 'db/contracts.db'
     TEMPLATES_PATH: str = 'templates'
     OUTPUT_PATH: str = 'output'
