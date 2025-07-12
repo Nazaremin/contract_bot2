@@ -1,0 +1,12 @@
+Агентское соглашение №{contract_name}
+
+Дата: {contract_date}
+
+Агент: {agent_name}
+
+Принципал: {principal_name}
+
+Вознаграждение: {reward}
+
+Реквизиты сторон: {requisites}
+

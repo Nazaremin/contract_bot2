@@ -1,0 +1,19 @@
+
+Договор поставки №{contract_name}
+
+Дата: {contract_date}
+
+Поставщик: {supplier_name}
+
+Покупатель: {buyer_name}
+
+Перечень товаров/услуг: {goods_services}
+
+Цена и условия оплаты: {price_payment_terms}
+
+Сроки поставки: {delivery_terms}
+
+Ответственность сторон: {responsibility}
+
+Реквизиты сторон: {requisites}
+

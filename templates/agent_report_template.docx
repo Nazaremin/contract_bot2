@@ -1,0 +1,11 @@
+
+Акт отчета к Агентскому соглашению №{contract_name}
+
+Дата: {contract_date}
+
+Агент: {agent_name}
+
+Принципал: {principal_name}
+
+Сумма отчета: {report_details}
+

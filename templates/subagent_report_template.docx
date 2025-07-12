@@ -1,0 +1,11 @@
+
+Акт отчета к Субагентскому соглашению №{contract_name}
+
+Дата: {contract_date}
+
+Агент: {agent_name}
+
+Субагент: {subagent_name}
+
+Сумма отчета: {report_details}
+

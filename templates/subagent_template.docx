@@ -1,0 +1,17 @@
+
+Субагентское соглашение №{contract_name}
+
+Дата: {contract_date}
+
+Агент: {agent_name}
+
+Субагент: {subagent_name}
+
+Принципал: {principal_name}
+
+Предмет соглашения: {agreement_subject}
+
+Вознаграждение: {reward}
+
+Реквизиты сторон: {requisites}
+
